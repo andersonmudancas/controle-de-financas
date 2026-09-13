@@ -1,0 +1,6 @@
+{
+  "name": "Financeiro Pro",
+  "description": "Sistema completo de gestão financeira com controle de despesas, receitas, cartões de crédito com faturas, gráficos por categoria e backup de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
